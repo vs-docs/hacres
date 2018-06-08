@@ -1,6 +1,10 @@
 # Footer Widgets
 
-Footer widgets code can be found in all HTML pages that are included with the theme. Approximately the code will be placed from 1066th to 1151th line of each page.
+ HTML Code can be found in all pages that are included in the theme. Code Starts From Line **1066th** to **1151th** of each page.
+
+{% hint style="warning" %}
+**Note :** Code start and end may vary based on the page you are editing and its contents so we have given a approximate line numbers. so please do _**check and edit carefully**_
+{% endhint %}
 
 ```text
 
