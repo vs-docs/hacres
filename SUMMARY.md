@@ -9,4 +9,5 @@
 * [Site Loader](site-loader.md)
 * [Site Logo & Text](site-logo-and-text.md)
 * [Site Navigation](site-navigation.md)
+* [Change Log](change-log.md)
 
