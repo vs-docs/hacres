@@ -11,4 +11,5 @@
 * [Site Navigation](site-navigation.md)
 * [Home Page Banner](home-page-banner.md)
 * [Change Log](change-log.md)
+* [Footer Widgets](footer-widgets.md)
 
