@@ -12,4 +12,5 @@
 * [Home Page Banner](home-page-banner.md)
 * [Footer Widgets](footer-widgets.md)
 * [Change Log](change-log.md)
+* [Extra](extra.md)
 
