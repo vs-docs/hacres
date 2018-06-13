@@ -1,24 +1,25 @@
 # Introduction
 
-First of all, Thank you so much for purchasing this template and for being my loyal customer. **You are awesome!**
+If you are able to read this documentation locally, which means you have successfully downloaded the package and extracted the zip. The file structure as follows :
 
-This documentation is to help you regarding each step of customization. Please go through the documentation carefully to understand how this template is made and how to edit this properly.
+```text
+Gather/
+├── documentation/   
+├── HTML/
+│   ├── css/
+│   │   ├── plugins/
+│   │   ├── themes/
+│   ├── fonts/
+│   ├── images/  
+│   ├── js/  
+│   │   ├── ie/
+│   │   ├── includes/
+│   │   ├── plugins/  
+│   ├── php/
+│   ├── video/                            
+```
 
-
-
-**Requirements**
-
-You will need the following sofwares to customize this template.
-
-1. Code Editing Software \(eg: Dreamweaver, Sublime Text or Notepad\)
-2. Web Browser for testing \(eg: Google Chrome or Mozilla Firefox\)
-
-
-
-{% hint style="warning" %}
- Be careful while editing the template. If not edited properly, the design layout may break completely.   
-No support is provided for faulty customization.
-{% endhint %}
+The folder you have to customize is the HTML folder. Copy `HTML` folder from the package and paste it in your Project Folder. \(This helps you to prevent overwriting in original files. so if you messed up something, you will get the original here.\)
 
 
 
