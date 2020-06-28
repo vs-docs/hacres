@@ -11,7 +11,7 @@ As an Author, I can provide you cheap and affordable Shared Hosting Plan \(Linux
 ### Hosting Plans
 
 | **Plan** | **Space** | **Bandwidth \(MB\)** | **Price \(USD\)** |
-| --- | --- | --- | --- | --- | --- | --- |
+| :--- | :--- | :--- | :--- |
 | Basic | 50 MB | 1000 | $20 / year |
 | LITE | 100 MB | 2000 | $30 / year |
 | SILVER | 250 MB | 2500 | $40 / year |
